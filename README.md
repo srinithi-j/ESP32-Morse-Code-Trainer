@@ -67,4 +67,4 @@ An interactive Morse Code Trainer built using the ESP32 microcontroller. This pr
 
 ## Author
 
-**Aashika A**
+**Srinithi J**
